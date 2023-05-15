@@ -39,4 +39,3 @@ for i in range(n_tour):
     print(f"Tour {i + 1} - Diamètre [mm]: {int(d * 1000)} - Longueur enroulée [mm]: {int(l * 1000)}")
 
 print(f"\nCalcul de la longueur L par formule: {round(l * 1000, 2)}")
-
